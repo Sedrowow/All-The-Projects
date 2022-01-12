@@ -1,9 +1,4 @@
 # Chaosmaker-on-start
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 All my and others projects here... 
 Every project is in one folder, but there can be multiple programs in one prject!
 You can request that your program/projact you made could be added to this repository!
