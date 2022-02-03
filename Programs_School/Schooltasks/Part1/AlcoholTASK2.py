@@ -1,3 +1,4 @@
+#askalcalc = frage nach alkoholberechnung
 askalcalc = int(input("Was wollen sie berechnen? 1=Den reinalkoholgehalt in einem Bier? 2=Die Promile in ihrem Blut?"))
 
 
@@ -7,7 +8,7 @@ if askalcalc == 1:
     percent = percent / 100.0
     
     end1 = liter * percent * 0.8
-    print("in ihrem Bier sind", end1, "'%' reiner Alkohol enthalten.")
+    print("in ihrem Bier sind", end1, "Gramm reiner Alkohol enthalten.")
 elif askalcalc == 2:
     drunk = float(input("Wie viel Gramm Alkohol haben sie zu sich genommen?: "))
     heavy = float(input("Wie viel Kilogramm wiegen sie?: "))
