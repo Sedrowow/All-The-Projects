@@ -12,4 +12,5 @@ Change The program without Permission or knowledge of the Creator
 
 YOU HAVE TO:
 Publish changes you made
-Tell the creator IF you want to(had alraedy changed something so he can review it
+Tell the creator IF you want or if you alraedy have changed something so he can review it
+Publish the changes in a different folder in this repository
