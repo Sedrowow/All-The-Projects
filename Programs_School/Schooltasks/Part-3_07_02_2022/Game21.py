@@ -153,7 +153,7 @@ while play == True:
                         print("Pcs card points are:\n",no17)
                     elif cardpc == 18:
                         print("Pcs card points are:\n",no18)
-                    elif cardpc == 10:
+                    elif cardpc == 19:
                         print("Pcs card points are:\n",no19)
                     elif cardpc == 20:
                         print("Pcs card points are:\n",no20)
