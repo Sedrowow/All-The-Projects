@@ -36,8 +36,7 @@ while players >= 1:
                     print("The Number needs to be higher")
                 else:
                     print("The Number needs to be lower")
-				#tries war hier an der falschen Stelle
-                tries = tries + 1
+        tries = tries + 1
     elif difficulty == 2:
         guess = False
         print("the number goes from 1 to 100")
@@ -78,13 +77,6 @@ while listplayer > 0:
     playnum = listplayer - 1
 #Hier ist human.index nicht das was ich brauche, leider suchte ich vergeblich nach dem "command",
 #der das macht was ich wollte: den bestimmten eintrag aus der liste abrufen
-
-#du verwendest das Array falsch. index sucht nach einem bestimmten Eintrag. Du willst aber einen
-#bestimmten Eintrag an einer bestimmten Stelle suchen. Die Korrektur sieht wie folgt aus
-#    print("player", listplayer, "used", human.index(playnum), "tries")
     print("player", listplayer, "used", human.index(playnum), "tries")
     listplayer = listplayer - 1
-    print("test")
-
-#Anmerkungen: bei mehreren Spielern ist die Zufallszahl für alle Spieler gleich, da sie nur zum
-#Beginn "ausgewürfelt wird
+print("test")
