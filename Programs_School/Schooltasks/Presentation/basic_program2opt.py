@@ -29,6 +29,7 @@ def foreandsurnames():
     FORE.append("Renate")
     FORE.append("Klaus")
     FORE.append("Manfred")
+    FORE.append("Thomas")
     
     forename = random.choice(FORE)
     
@@ -42,9 +43,11 @@ def foreandsurnames():
     SUR.append("Jansen")
     SUR.append("Koch")
     SUR.append("Peters")
+    SUR.append("Luig")
     
     surname = random.choice(SUR)
     foransur = forename, surname
+    print(foransur)
     return foransur
 
 
@@ -76,7 +79,7 @@ if task == 1:
         age = random.randint(-1000,1000)
     if askhowclass == 1:
         print("Classgenerator not yet implemented!")
-        classi = input("Please write the class by yourself")
+        classi = input("Please write the class by yourself!:\n")
     elif askhowclass == 2:
         classi = input("please type in your class:\n")
     else:
@@ -85,6 +88,7 @@ if task == 1:
     print("here is your character text:\n")
     print("My name is", nameing, ". I am", age, "years old and my class is:", classi)
 if task == 2:
+    #askrep = ask repition
     askrep = int(input("how many names should be generated?:\n"))
     askinter = float(input("how fast should the names be shown? (recommended are max 0.25 seconds between every generation!):\n"))
 

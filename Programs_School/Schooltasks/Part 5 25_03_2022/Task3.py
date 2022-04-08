@@ -1,0 +1,2 @@
+def anzTeiler(num):
+    
