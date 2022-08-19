@@ -1,0 +1,57 @@
+1. Was ist ein Projekt und gibt es sogar eine definition?
+
+  JA. folgendes steht in Wikipedia:
+
+  Ein Projekt ist ein zielgerichtetes, einmaliges Vorhaben, das aus einem Satz von abgestimmten, gesteuerten Tätigkeiten besteht und durchgeführt werden kann, um unter Berücksichtigung von Vorgaben wie etwa Zeit, Ressourcen und Qualität ein Ziel zu erreichen.
+
+Quelle: Wikipedia.Org
+
+2.Ist ein Projekt genormt und wenn ja: In welcher Norm ist die Definition zu finden?
+  Ja es gibt eine norm für Projekt. Sie nennt sich "DIN 69901". Laut wikipedia definiert sich diese Norm folgendermaßen:
+
+    Die DIN-Normenreihe DIN 69901 beschreibt Grundlagen, Prozesse, Prozessmodell, Methoden, Daten, Datenmodell und Begriffe im Projektmanagement. Unter dem Haupttitel Projektmanagement; Projektmanagementsysteme enthält diese Normenreihe folgende fünf Teile (alle Ausgabedatum Januar 2009):
+
+    Teil 1 Grundlagen
+    Teil 2 Prozesse, Prozessmodell
+    Teil 3 Methoden
+    Teil 4 Daten, Datenmodell
+    Teil 5 Begriffe
+
+3. Unter welchen Arten von Projekten werden unterschieden?
+
+  Laut www.cio.de:
+
+  Routine-Projekte. Hierbei handelt es sich um Maßnahmen wie zum Beispiel Vertriebsprojekte oder Verkaufskampagnen. ...
+  Innovationsprojekte. ...
+  Akzeptanzprojekt. ...
+  Wandel- oder Change-Projekte.
+
+4. Sind Projekte starr oder müssen Sie sich anpassen können? Begründen Sie Ihre Antwort!
+  Sowohl, als auch:
+  Projekte müssen sich einerseíts anpassen können, aber auch sich starr an ihre Themen aka Ziele halten. Denn ein Projekt ist kein Projekt, wenn dessen Ziele nicht erfüllt werden können! Außerdem nur starr oder komplett anpassungsfähig hat ihre jeweiligen nachteile.
+  Starr wäre schlecht weil man änderungen nicht machen kann.
+  Volle anpassung kann vom eigentlichen Ziel abweichen.
+  Hiermit wäre die Goldene mitte beides!
+
+5.Unterliegen Projekte dem Wettbewerbsdruck? Wenn ja: In welchen Faktoren und warum?
+  Ja. Wettberbe unterliegen meist dem Wettbewerbsdruck, weil einerseits das Projekt von einer Art Jury (Stakeholder ist hier anscheinend der Fachbegriff) mit bestimmtn Faktoren (sogenannte "kritische Erfolgsfaktoren" (kurz "KEF")) überprüft wird (Die Faktoren siehe Z.), zudem kann ein Projekt auch schiefgehen und/oder auch kompetition in existenz Rufen.
+
+  Die Primären wichtigen Faktoren (KEF) sind folgende (mit erklärung):
+  Planung: Eine gute Planung beinhaltet die gründliche Planung vor Projektstart und eine regelmäßige Kontrolle aller Prozesse während der Durchführung. Ebenso gehört die nachträgliche Überprüfung dazu. Fristen müssen vernünftig gesetzt werden, Risiken aktiv gemanagt.
+
+  Ziele: Das übergeordnete Projekt-Ziel wird klar definiert und verstanden. Es kollidiert nicht mit Teilzielen.
+
+  Governance: Es gibt eine klare Rollenverteilung im Projekt. Führungsaufgaben und Verantwortlichkeiten sind festgelegt, ebenso Berichtslinien und die Kommunikation zwischen allen Beteiligten.
+
+  Team: Ein erfolgversprechendes Team zeichnet sich nicht nur durch fachliche Kompetenzen aus. Seine Mitglieder bringen auch eine positive Einstellung in die Zusammenarbeit mit.
+
+  Wille: Alle am Projekt Beteiligten sind von dessen Erfolg überzeugt. Bekommt jemand Zweifel, äußert er diese, damit sie besprochen werden.
+
+6. In wie viele Phasen ist ein Projekt unterteilt und wie werden diese im Allgemeinen bezeichnet
+
+  1. Phase im Projektmanagement: Start
+  2. Phase im Projektmanagement: Planung
+  3. Phase im Projektmanagement: Durchführung
+  4. Phase im Projektmanagement: Steuerung
+  5. Phase im Projektmanagement: Abschluss
+  allgemeine Bezeichnung: "Projektphasen" oder auch "Projektmanagement-Phasen"
